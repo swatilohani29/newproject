@@ -3,5 +3,6 @@ class file1
             public static void main(String[]args)
             {
                 System.out.println ("This is the first program here");
-            }
+                System.out.println ("Second line added to program")
+             } 
 }
